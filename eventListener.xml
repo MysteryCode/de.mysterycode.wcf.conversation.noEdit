@@ -5,7 +5,6 @@
 			<environment>user</environment>
 			<eventclassname>wcf\form\ConversationMessageEditForm</eventclassname>
 			<eventname>readParameters</eventname>
-			<inherit>0</inherit>
 			<listenerclassname>wcf\system\event\listener\ConversationMessageEditPermissionListener</listenerclassname>
 		</eventlistener>
 	</import>
